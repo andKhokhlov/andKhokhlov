@@ -1,7 +1,7 @@
 ### Hi ,my name is Andrey
 
 
-🏙️I live in the city of Kasimov;
+🏙️I live in Kasimov city;
 ⛷️ I am fond of snowboarding and football and other sports;
 🕖In my free time, I take courses, read documentation and (think up yourself);
 
