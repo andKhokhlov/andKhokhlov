@@ -6,7 +6,7 @@
 🕖In my free time, I take courses, read documentation and (think up yourself);
 
 
-Skills:  JS / HTML / CSS 
+Skills:  JS,TS / HTML / CSS Angular  
 
 - 🔭 I’m currently working on Over the study of JS 
 - 🌱 I’m currently learning in college for the specialization "Information systems and programming" 
